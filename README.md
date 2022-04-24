@@ -13,4 +13,4 @@ This project was made possible thanks to the following projects.
 
 ## License
 
-MIT © [] <a href="https://arvin.vercel.app" target="_blank">Arvin Mostafaei</a>
+MIT © [Arvin Mostafaei](https://arvin.vercel.app){:target="_blank"}
