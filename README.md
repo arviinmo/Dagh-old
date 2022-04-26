@@ -1,9 +1,5 @@
 ## Usage
 
-```bash
-npx create-react-app --template tailwindcss-typescript
-```
-
 ## Credits
 
 This project was made possible thanks to the following projects.
