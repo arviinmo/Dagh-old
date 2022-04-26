@@ -1,5 +1,3 @@
-## Credits
-
 This project was made possible thanks to the following projects.
 
 1. [GeoffSelby/cra-template-tailwindcss](https://github.com/GeoffSelby/cra-template-tailwindcss) - A streamlined Tailwind CSS template for Create React App (in JavaScript).
