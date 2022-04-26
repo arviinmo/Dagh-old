@@ -1,6 +1,4 @@
-```bash
-npx create-react-app --template tailwindcss-typescript
-```
+
 
 ## Credits
 
