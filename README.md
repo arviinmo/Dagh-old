@@ -1,4 +1,4 @@
-2. [cra-template-typescript](https://github.com/facebook/create-react-app/tree/master/packages/cra-template-typescript) - An official TypeScript template for create-react-app.
+2. [cra-template-typescript](https://github.com/facebook/create-react-app/tree/master/packages/
 
 ## License
 
