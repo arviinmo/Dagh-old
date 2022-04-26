@@ -1,4 +1,10 @@
 import React from "react";
+import styled from 'styled-components';
+
+
+const StyledCounter = styled.div`
+  /* ... */
+`;
 
 function App() {
   return (
