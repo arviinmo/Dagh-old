@@ -1,5 +1,3 @@
-
-
 ## Credits
 
 This project was made possible thanks to the following projects.
