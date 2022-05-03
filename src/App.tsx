@@ -6,6 +6,7 @@ const Container = styled.div`
   justify-content: center;
   flex-direction: column;
   align-items: center;
+  text-align: center;
   width: 62rem;
   height: 450px;
   background-color: red;
@@ -13,7 +14,7 @@ const Container = styled.div`
 
 function App() {
   return (
-    <div className="app">
+    <div>
       <Container>
         <h1>hello</h1>
       </Container>
