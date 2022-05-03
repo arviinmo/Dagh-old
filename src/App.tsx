@@ -13,7 +13,7 @@ const Container = styled.div`
   padding: 5px;
   width: 62rem;
   height: 540px;
-  border: 2px solid;
+  border: 1px solid;
   border-radius: 10px;
 `;
 
