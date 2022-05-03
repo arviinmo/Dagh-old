@@ -7,9 +7,14 @@ const Container = styled.div`
   flex-direction: column;
   align-items: center;
   text-align: center;
+  position: fixed;
+  margin-left: 25%;
+  margin-top: 8%;
+  padding: 5px;
   width: 62rem;
-  height: 450px;
-  background-color: red;
+  height: 540px;
+  border: 2px solid;
+  border-radius: 10px;
 `;
 
 function App() {
