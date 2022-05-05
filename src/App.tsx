@@ -1,10 +1,12 @@
 import React from "react";
 import styled from "styled-components";
+import ParagraphCalculator from "./components/ParagraphCalculator";
+import WordCalculator from './components/WordCalculator';
 
 const Container = styled.div`
   display: flex;
   justify-content: center;
-  flex-direction: column;
+  flex-direction: row;
   align-items: center;
   text-align: center;
   position: fixed;
@@ -21,7 +23,8 @@ function App() {
   return (
     <div>
       <Container>
-        <h1>hello</h1>
+        <WordCalculator />
+        <ParagraphCalculator />
       </Container>
     </div>
   );
