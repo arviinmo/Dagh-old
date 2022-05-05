@@ -2,9 +2,10 @@ import React from "react";
 import styled from "styled-components";
 import ParagraphCalculator from "./components/ParagraphCalculator";
 import ReadSpeed from "./components/ReadSpeed";
-import WordCalculator from './components/WordCalculator';
+import WordCalculator from "./components/WordCalculator";
 
-const Container = styled.div`
+
+const InputSection = styled.div`
   display: flex;
   justify-content: center;
   flex-direction: row;
@@ -23,11 +24,11 @@ const Container = styled.div`
 function App() {
   return (
     <div>
-      <Container>
+      <InputSection>
         <WordCalculator />
         <ParagraphCalculator />
-        <ReadSpeed />
-      </Container>
+      </InputSection>
+      <ReadSpeed />
     </div>
   );
 }
