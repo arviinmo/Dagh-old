@@ -1,6 +1,7 @@
 import React from "react";
 import styled from "styled-components";
 import ParagraphCalculator from "./components/ParagraphCalculator";
+import ReadSpeed from "./components/ReadSpeed";
 import WordCalculator from './components/WordCalculator';
 
 const Container = styled.div`
@@ -25,6 +26,7 @@ function App() {
       <Container>
         <WordCalculator />
         <ParagraphCalculator />
+        <ReadSpeed />
       </Container>
     </div>
   );
