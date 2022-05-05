@@ -1,14 +1,15 @@
-import React from 'react'
+import React from "react";
 import styled from "styled-components";
 
 const Container = styled.div`
-  background-color: red
-`
+  width: 49.8%;
+  height: 92%;
+  background-color: red;
+  border-right: 1px solid yellow;
+`;
 
 function ParagraphCalculator() {
-  return (
-    <Container>ParagraphCalculator</Container>
-  )
+  return <Container>ParagraphCalculator</Container>;
 }
 
-export default ParagraphCalculator
+export default ParagraphCalculator;

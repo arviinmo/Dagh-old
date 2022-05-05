@@ -4,21 +4,19 @@ import ParagraphCalculator from "./components/ParagraphCalculator";
 import ReadSpeed from "./components/ReadSpeed";
 import WordCalculator from "./components/WordCalculator";
 
-
 const InputSection = styled.div`
   display: flex;
-  justify-content: center;
+  flex-wrap: wrap;
   flex-direction: row;
+  justify-content: center;
   align-items: center;
   text-align: center;
-  position: fixed;
+  position: absolute;
   margin-left: 25%;
-  margin-top: 8%;
-  padding: 5px;
+  margin-top: 6%;
   width: 62rem;
-  height: 540px;
+  height: 600px;
   border: 1px solid;
-  border-radius: 10px;
 `;
 
 function App() {
@@ -27,8 +25,8 @@ function App() {
       <InputSection>
         <WordCalculator />
         <ParagraphCalculator />
+        <ReadSpeed />
       </InputSection>
-      <ReadSpeed />
     </div>
   );
 }
