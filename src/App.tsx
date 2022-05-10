@@ -1,5 +1,6 @@
 import React from "react";
 import styled from "styled-components";
+import Footer from "./components/Footer";
 import ParagraphCalculator from "./components/ParagraphCalculator";
 import ReadSpeed from "./components/ReadSpeed";
 import WordCalculator from "./components/WordCalculator";
@@ -27,6 +28,7 @@ function App() {
         <ParagraphCalculator />
         <ReadSpeed />
       </InputSection>
+      <Footer />
     </div>
   );
 }
