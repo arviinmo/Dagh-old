@@ -4,7 +4,7 @@ import styled from "styled-components";
 const Container = styled.div`
   width: 49.9%;
   height: 92%;
-  background-color: red;
+  background-color: #FF2E63;
   border-right: 1px solid yellow;
 `;
 
