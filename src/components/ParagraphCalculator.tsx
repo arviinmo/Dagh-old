@@ -2,10 +2,10 @@ import React from "react";
 import styled from "styled-components";
 
 const Container = styled.div`
-  width: 49.9%;
+  width: 50%;
   height: 92%;
   background-color: #FF2E63;
-  border-right: 1px solid yellow;
+  /* border-left: 1px solid black; */
 `;
 
 function ParagraphCalculator() {

@@ -2,10 +2,10 @@ import React from "react";
 import styled from "styled-components";
 
 const Container = styled.div`
-  background-color: #08D9D6;
-  width: 49.8%;
+  background-color: #08d9d6;
+  width: 50%;
   position: relative;
-  border-right: 1px solid yellow;
+  /* border-right: 1px solid black; */
   height: 92%;
 `;
 
