@@ -5,6 +5,10 @@ import ParagraphCalculator from "./components/ParagraphCalculator";
 import ReadSpeed from "./components/ReadSpeed";
 import WordCalculator from "./components/WordCalculator";
 
+const Container = styled.div`
+  background-color: #FFE2E2;
+`;
+
 const InputSection = styled.div`
   display: flex;
   flex-wrap: wrap;
@@ -22,14 +26,14 @@ const InputSection = styled.div`
 
 function App() {
   return (
-    <div>
+    <Container>
       <InputSection>
         <WordCalculator />
         <ParagraphCalculator />
         <ReadSpeed />
       </InputSection>
       <Footer />
-    </div>
+    </Container>
   );
 }
 
