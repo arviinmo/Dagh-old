@@ -21,7 +21,7 @@ const InputSection = styled.div`
   margin-top: 6%;
   width: 62rem;
   height: 600px;
-  border: 1px solid;
+  border: 12px solid;
 `;
 
 function App() {
