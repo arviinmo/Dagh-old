@@ -9,3 +9,4 @@ Day 6 = create base structure and design.</br>
 Day 7 = division app page to two main component(ParagraphCalculator.tsx, WordCalculator.tsx).</br>
 Day 8 = add design with Styled-components to components.</br>
 Day 9 = create ReadSpeed.tsx component which give access to the users to change Read Speed(WPM).</br>
+Day 10 = add Footer page.</br>
