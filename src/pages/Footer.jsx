@@ -6,16 +6,10 @@ const Container = styled.div`
   width: 100%;
 `;
 
-const Button = styled.div`
-  
-`;
-
 function Footer() {
   return (
     <Container>
-      <Button>
-        <Coffee />
-      </Button>
+      <Coffee />
     </Container>
   );
 }

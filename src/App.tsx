@@ -6,7 +6,7 @@ import ReadSpeed from "./components/ReadSpeed";
 import WordCalculator from "./components/WordCalculator";
 
 const Container = styled.div`
-  background-color: #FFE2E2;
+  background-color: #fae0e0;
 `;
 
 const InputSection = styled.div`
