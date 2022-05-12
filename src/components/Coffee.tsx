@@ -10,7 +10,7 @@ const Button = styled.a`
   text-decoration: none;
   display: inline-flex;
   color: #ffffff;
-  background-color: #00ADB5;
+  background-color: #00adb5;
   border-radius: 5px;
   border: 1px solid transparent;
   padding: 0.7rem 1rem 0.7rem 1rem;
@@ -37,12 +37,14 @@ const Image = styled.img`
   box-shadow: none;
   border: none;
   vertical-align: middle;
+  background-color: #00adb5;
 `;
 
 const Text = styled.span`
   margin-left: 5px;
   font-size: 1.25rem;
   vertical-align: middle;
+  background-color: #00adb5;
 `;
 
 function Coffee() {
