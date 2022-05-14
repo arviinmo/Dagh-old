@@ -12,3 +12,4 @@ Day 9 = create ReadSpeed.tsx component which give access to the users to change 
 Day 10 = add Footer page.</br>
 Day 11 = add BuyMeACoffee button to footer.tsx page for anyone who like supporting Dagh project.</br>
 Day 12 = adding GitHub star button but then remove it because it turn out that project at this state don't need star button yet.</br>
+Day 13 = 
