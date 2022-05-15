@@ -17,7 +17,8 @@ const InputSection = styled.div`
   align-items: center;
   text-align: center;
   position: absolute;
-  margin-left: 25%;
+  margin: 7% 10% 0 10%;
+  margin-left: 480px;
   margin-top: 7%;
   width: 62rem;
   height: 600px;
