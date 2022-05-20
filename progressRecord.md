@@ -15,3 +15,4 @@ Day 12 = adding GitHub star button but then remove it because it turn out that p
 Day 13 = take a rest and study for my driving license exam.</br>
 Day 14 = pass my exam and start working on designing Dagh logo(with figma)</br> and here is [final results](https://www.figma.com/file/jH7eZpM6EhhNooLcQaWOM4/Dagh?node-id=0%3A1).</br>
 Day 15 = add Dagh logo to project and create header component.</br>
+Day 16 = pause the project for a while
